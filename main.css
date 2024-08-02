@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.wrapper {
+    box-sizing: border-box;
+    font-display: swap;
+}
+
+.ssalki {
+    color: black;
+    position: fixed;
+    float: right;
+    font-size: 25px;
+    width: 700px;
+    z-index: 1;
+    height: 700px;
+    background-color: rgb(209, 207, 204);;
+}
+
+.imges {
+    position: absolute;
+    float: right;
+    margin-right: 40px;
+}
+.dobri  {
+    margin-left: 900px;
+    max-width: 1000px;
+}
+
+.img1 {
+    float: right;
+}
+.img2 {
+    float: right;
+}
+.img3 {
+    float: right;
+}
+.img4 {
+    float: right;
+}
+.img5 {
+    float: right;
+}
+.img6 {
+    float: right;
+}
+.img7 {
+    float: right;
+}
+.img8 {
+    float: right;
+}
+.img9 {
+    float: right;
+}
+.img10 {
+    float: right;
+}
+.img11 {
+    float: right;
+}
+.img12 {
+    float: right;
+}
+.img13 {
+    float: right;
+}
